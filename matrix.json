@@ -6,7 +6,7 @@
                 "qt": {
                     "version": "4.8",
                     "app_name": "IRUATNEC",
-                    "script_url": "https://raw.githubusercontent.com/pipoe2h/calm/webpage/demo/areydemo/qt4.sh"
+                    "script_url": "https://raw.githubusercontent.com/reymanreyman/scripts-navan/master/qt4.sh"
                 }
             },
             {
@@ -15,7 +15,7 @@
                 "qt": {
                     "version": "5.9.4",
                     "app_name": "ELLIACAL",
-                    "script_url": "https://raw.githubusercontent.com/pipoe2h/calm/webpage/demo/areydemo/qt5.sh"
+                    "script_url": "https://raw.githubusercontent.com/reymanreyman/scripts-navan/master/qt5.sh"
                 }
             }
         ],
@@ -56,7 +56,7 @@
         ],
         "compilers": [{
                 "name": "Cmake",
-                "script_url": "https://raw.githubusercontent.com/pipoe2h/calm/webpage/demo/areydemo/cmake.sh"
+                "script_url": "https://raw.githubusercontent.com/reymanreyman/scripts-navan/master/cmake.sh"
             },
             {
                 "name": "Make",
